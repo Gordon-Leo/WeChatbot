@@ -1,1 +1,2 @@
+python -m itchat download
 python -m ipykernel install --user --name=Gordon-Leo
