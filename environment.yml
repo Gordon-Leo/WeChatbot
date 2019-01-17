@@ -1,0 +1,9 @@
+dependencies:
+  - python=3
+  - pip:
+    - ipykernel
+    - os
+    - re
+    - shutil
+    - time
+    - itchat
